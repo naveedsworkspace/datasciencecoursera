@@ -1,5 +1,3 @@
-The zip file containing the data can be downloaded here: Assignment 3 Data
-
 Part 1 Plot the 30-day mortality rates for heart attack (outcome.R)
 # install.packages("data.table")
 library("data.table")
